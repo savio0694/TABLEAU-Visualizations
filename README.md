@@ -1,3 +1,1 @@
-# Visualizations
-
 TABLEAU VISUALIZATIONS
